@@ -6,4 +6,5 @@ def SumOfAll(*args):
 output=SumOfAll(2,4,5,6,7,8)
 print("the Sum Of aLl numbers :",output)
 
+
     
